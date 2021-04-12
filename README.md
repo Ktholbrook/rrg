@@ -14,4 +14,6 @@ https://ktholbrook.github.io/rrg/
 
 ![On top of Battleship rock, photo by Ken H](basemap/onBattle.jpeg) On top of Battleship rock, photo by Ken H
 
-![Below Battleship rock, photo by Ken H](basemap/belowBattle2.jpg) Below Battleship rock, photo by Ken H]
+![Below Battleship rock, photo by Ken H](basemap/belowBattle2.jpg) Below Battleship rock, photo by Ken H
+
+![map](basemap/rrg-arches.jpg) 
