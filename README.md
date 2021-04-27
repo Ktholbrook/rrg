@@ -17,3 +17,10 @@ https://ktholbrook.github.io/rrg/
 ![Below Battleship rock, photo by Ken H](basemap/belowBattle2.jpg) Below Battleship rock, photo by Ken H
 
 ![map](basemap/rrg-arches.jpg) 
+
+## Chained Rock
+
+![chainedRock](chainedRock/chainedRock.jpg) 3D map of Chained Rock using lidar data
+
+![chainedRockVid](chainedRock/chainedRockVid.png)
+[View Video of Animation](https://youtu.be/aCqgSLDJyN8)
